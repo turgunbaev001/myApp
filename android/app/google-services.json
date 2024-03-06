@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "998162696302",
+    "project_id": "skit-ktges",
+    "storage_bucket": "skit-ktges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998162696302:android:8f8df23ee58e38f341fe7f",
+        "android_client_info": {
+          "package_name": "com.mycompany.turgunbaev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuIH45izvAvk3byzBzFNGIiMRSyB6BEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998162696302:android:61fe5bc11f575b6441fe7f",
+        "android_client_info": {
+          "package_name": "com.tilekberdievich.skit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuIH45izvAvk3byzBzFNGIiMRSyB6BEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998162696302:android:8149e180d6c54f9741fe7f",
+        "android_client_info": {
+          "package_name": "com.tilekberdievich.testmyproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuIH45izvAvk3byzBzFNGIiMRSyB6BEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
